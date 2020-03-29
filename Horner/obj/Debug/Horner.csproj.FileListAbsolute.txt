@@ -1,0 +1,7 @@
+C:\Users\yoshi\source\repos\Horner\bin\Debug\Horner.exe.config
+C:\Users\yoshi\source\repos\Horner\bin\Debug\Horner.exe
+C:\Users\yoshi\source\repos\Horner\bin\Debug\Horner.pdb
+C:\Users\yoshi\source\repos\Horner\obj\Debug\Horner.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\Horner\obj\Debug\Horner.exe
+C:\Users\yoshi\source\repos\Horner\obj\Debug\Horner.pdb
+C:\Users\yoshi\source\repos\Horner\obj\Debug\Horner.csprojAssemblyReference.cache
