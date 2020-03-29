@@ -1,0 +1,7 @@
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Pascal\bin\Debug\Pascal.exe.config
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Pascal\bin\Debug\Pascal.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Pascal\bin\Debug\Pascal.pdb
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Pascal\obj\Debug\Pascal.csprojAssemblyReference.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Pascal\obj\Debug\Pascal.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Pascal\obj\Debug\Pascal.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Pascal\obj\Debug\Pascal.pdb
