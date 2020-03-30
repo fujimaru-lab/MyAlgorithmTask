@@ -1,0 +1,7 @@
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Rank\bin\Debug\Rank.exe.config
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Rank\bin\Debug\Rank.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Rank\bin\Debug\Rank.pdb
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Rank\obj\Debug\Rank.csprojAssemblyReference.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Rank\obj\Debug\Rank.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Rank\obj\Debug\Rank.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Rank\obj\Debug\Rank.pdb

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal", "Pascal\Pascal.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{612CB300-5C50-4E73-A94A-174D2BD1AAAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptBasic", "CryptBasic\CryptBasic.csproj", "{C1C2F98C-0F2A-4766-9796-7ACCC2997143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rank", "Rank\Rank.csproj", "{8E48A0FD-A0D5-4976-9882-1D2D5CEFE2DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{612CB300-5C50-4E73-A94A-174D2BD1AAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{612CB300-5C50-4E73-A94A-174D2BD1AAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{612CB300-5C50-4E73-A94A-174D2BD1AAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C2F98C-0F2A-4766-9796-7ACCC2997143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C2F98C-0F2A-4766-9796-7ACCC2997143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C2F98C-0F2A-4766-9796-7ACCC2997143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C2F98C-0F2A-4766-9796-7ACCC2997143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E48A0FD-A0D5-4976-9882-1D2D5CEFE2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E48A0FD-A0D5-4976-9882-1D2D5CEFE2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E48A0FD-A0D5-4976-9882-1D2D5CEFE2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E48A0FD-A0D5-4976-9882-1D2D5CEFE2DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

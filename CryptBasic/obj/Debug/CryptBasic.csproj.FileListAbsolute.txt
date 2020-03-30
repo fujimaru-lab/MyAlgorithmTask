@@ -1,0 +1,7 @@
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\CryptBasic\bin\Debug\CryptBasic.exe.config
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\CryptBasic\bin\Debug\CryptBasic.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\CryptBasic\bin\Debug\CryptBasic.pdb
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\CryptBasic\obj\Debug\CryptBasic.csprojAssemblyReference.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\CryptBasic\obj\Debug\CryptBasic.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\CryptBasic\obj\Debug\CryptBasic.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\CryptBasic\obj\Debug\CryptBasic.pdb
