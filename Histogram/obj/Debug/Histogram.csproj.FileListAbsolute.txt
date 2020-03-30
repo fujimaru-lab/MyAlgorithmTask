@@ -1,0 +1,7 @@
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Histogram\bin\Debug\Histogram.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Histogram\bin\Debug\Histogram.pdb
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Histogram\obj\Debug\Histogram.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\Histogram\obj\Debug\Histogram.pdb

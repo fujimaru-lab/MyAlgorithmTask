@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horner", "Horner\Horner.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal", "Pascal\Pascal.csproj", "{6D4E1DB0-1280-4D3F-B91E-A6C341CA9247}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{612CB300-5C50-4E73-A94A-174D2BD1AAAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6D4E1DB0-1280-4D3F-B91E-A6C341CA9247}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D4E1DB0-1280-4D3F-B91E-A6C341CA9247}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D4E1DB0-1280-4D3F-B91E-A6C341CA9247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612CB300-5C50-4E73-A94A-174D2BD1AAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612CB300-5C50-4E73-A94A-174D2BD1AAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612CB300-5C50-4E73-A94A-174D2BD1AAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612CB300-5C50-4E73-A94A-174D2BD1AAAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
