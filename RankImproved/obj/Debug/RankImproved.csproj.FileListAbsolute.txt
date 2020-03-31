@@ -1,0 +1,7 @@
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\RankImproved\bin\Debug\RankImproved.exe.config
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\RankImproved\bin\Debug\RankImproved.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\RankImproved\bin\Debug\RankImproved.pdb
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\RankImproved\obj\Debug\RankImproved.csprojAssemblyReference.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\RankImproved\obj\Debug\RankImproved.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\RankImproved\obj\Debug\RankImproved.exe
+C:\Users\yoshi\source\repos\AlgorithmsWithCSharp\RankImproved\obj\Debug\RankImproved.pdb
