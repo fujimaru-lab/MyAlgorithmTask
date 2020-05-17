@@ -20,6 +20,7 @@ namespace Horner
             catch (ArgumentOutOfRangeException e)
             {
                 Console.WriteLine("演算回数が、係数配列のサイズを超えました。\n処理を終了します。");
+                Console.WriteLine(e);
             }
             finally
             {
