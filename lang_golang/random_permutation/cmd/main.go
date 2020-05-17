@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math/rand"
+	"time"
 )
 
 // MAX 作成する数列の最大値
@@ -19,10 +20,13 @@ func main() {
 
 	fmt.Println("処理前:", rndPerm)
 
+	// シードの初期化
+	rand.Seed(time.Now().UnixNano())
+
 	// ランダムな順列の生成処理
 	for n := MAX; n >= 1; n-- {
 		// 処理対象の配列の位置を疑似乱数で指定
-		index := rand.Int31n(int32(n))
+		index := rand.Intn(n)
 
 		// 配列の中身を相互に置換
 		tmp := rndPerm[index]
